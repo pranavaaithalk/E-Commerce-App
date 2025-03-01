@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154429167254",
+    "firebase_url": "https://sri-krishna-stores-48ff5-default-rtdb.firebaseio.com",
+    "project_id": "sri-krishna-stores-48ff5",
+    "storage_bucket": "sri-krishna-stores-48ff5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154429167254:android:04bcee66f33ab0388f94b7",
+        "android_client_info": {
+          "package_name": "com.example.srikrishnastores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154429167254-rr6slgtqnofmsuq18vbaiv4di1qnhk2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.srikrishnastores",
+            "certificate_hash": "9ee7499da478f087020a5b72769f309f9e631ac7"
+          }
+        },
+        {
+          "client_id": "154429167254-h4a1449aloh0hgj91j4dbg3545hl7t06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL4_kyNFa6VKU1Xy06KlDxRn6pdh2TAok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154429167254-h4a1449aloh0hgj91j4dbg3545hl7t06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sri Krishna Stores</string>
+    <string name="default_web_client_id">154429167254-h4a1449aloh0hgj91j4dbg3545hl7t06.apps.googleusercontent.com</string>
+    <string-array name="Category">
+        <item>Dairy</item>
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Snacks</item>
+    </string-array>
+    <string name="admin_mail">pranavaaithal1128@gmail.com</string>
+</resources>
