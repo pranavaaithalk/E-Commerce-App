@@ -4,8 +4,6 @@ The **Registration/Login Page** in the **Sri Krishna Stores** app is the first s
 This ensures secure access to the app’s features, including order tracking, profile updates, and shopping.
   ![WhatsApp Image 2025-03-11 at 15 23 38_0486866f](https://github.com/user-attachments/assets/82845f72-45e1-4ff5-aa7c-8e297e3f4d55)
 
-One minor issue: The heading **"Registeration!"** has a typo; it should be **"Registration!"**.
-
 The **Product Listing Page** in the **Sri Krishna Stores** eCommerce app displays a variety of products categorized under **Dairy, Vegetables, Fruits, and Snacks**. Users can browse through products, view images, names, and prices, and add items to their cart using the **"Add to Cart"** button. The top navigation bar allows easy switching between categories, ensuring a smooth shopping experience. A cart icon in the top-right corner provides quick access to the shopping cart. With a clean and user-friendly interface, this page simplifies online shopping, making it convenient for users to explore and purchase products effortlessly.
 ![WhatsApp Image 2025-03-11 at 15 12 17_9e8acb2e](https://github.com/user-attachments/assets/ede09dcd-a7c9-49ee-b009-7d63f815fdfb)
 
